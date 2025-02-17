@@ -1,1 +1,1 @@
-from ghcr.io/open-webui/open-webui:cuda
+FROM ghcr.io/open-webui/open-webui:cuda
