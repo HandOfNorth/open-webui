@@ -1,1 +1,1 @@
-FROM ghcr.io/open-webui/open-webui:cuda
+FROM docker.io/xcq0607/lxserver:latest
